@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ej4304.didirdoot.in/sitemap.xml
